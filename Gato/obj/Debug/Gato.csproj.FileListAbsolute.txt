@@ -1,0 +1,9 @@
+C:\Users\chedraui\Documents\visual studio\N.Programas C#\Gato\Gato\obj\Debug\Gato.csprojAssemblyReference.cache
+C:\Users\chedraui\Documents\visual studio\N.Programas C#\Gato\Gato\obj\Debug\Gato.Form1.resources
+C:\Users\chedraui\Documents\visual studio\N.Programas C#\Gato\Gato\obj\Debug\Gato.Properties.Resources.resources
+C:\Users\chedraui\Documents\visual studio\N.Programas C#\Gato\Gato\obj\Debug\Gato.csproj.GenerateResource.cache
+C:\Users\chedraui\Documents\visual studio\N.Programas C#\Gato\Gato\bin\Debug\Gato.exe.config
+C:\Users\chedraui\Documents\visual studio\N.Programas C#\Gato\Gato\bin\Debug\Gato.exe
+C:\Users\chedraui\Documents\visual studio\N.Programas C#\Gato\Gato\bin\Debug\Gato.pdb
+C:\Users\chedraui\Documents\visual studio\N.Programas C#\Gato\Gato\obj\Debug\Gato.exe
+C:\Users\chedraui\Documents\visual studio\N.Programas C#\Gato\Gato\obj\Debug\Gato.pdb
